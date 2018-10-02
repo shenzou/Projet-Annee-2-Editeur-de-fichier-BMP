@@ -1,0 +1,24 @@
+C:\Users\alexa\Documents\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\alexa\Documents\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\alexa\Documents\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\alexa\Documents\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Projet Info Graphique.csprojResolveAssemblyReference.cache
+C:\Users\alexa\Documents\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\alexa\Documents\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\alexa\Documents\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\alexa\Documents\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Projet Info Graphique.csproj.GenerateResource.Cache
+C:\Users\alexa\Documents\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\alexa\Documents\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\alexa\Documents\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Histo.resources
+C:\Users\alexa\Documents\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Projet Info Graphique.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive - De Vinci\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\alexa\OneDrive - De Vinci\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\alexa\OneDrive - De Vinci\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\alexa\OneDrive - De Vinci\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Projet Info Graphique.csprojResolveAssemblyReference.cache
+C:\Users\alexa\OneDrive - De Vinci\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\alexa\OneDrive - De Vinci\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\alexa\OneDrive - De Vinci\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Histo.resources
+C:\Users\alexa\OneDrive - De Vinci\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\alexa\OneDrive - De Vinci\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Projet Info Graphique.csproj.GenerateResource.Cache
+C:\Users\alexa\OneDrive - De Vinci\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Projet Info Graphique.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive - De Vinci\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\alexa\OneDrive - De Vinci\Cours\ESILV A2\Algorithmique et POO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
